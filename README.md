@@ -7,7 +7,7 @@ This workshop is intended for the Mobile Design module at Hyper Island.
 
 
 ### Expected result
-![Result](http://javve.github.com/framer-workshop/result.gif)
+![Result](result.gif)
 
 
 ### Resources
