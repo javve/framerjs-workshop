@@ -10,8 +10,10 @@ You’ll decide by yourself how challenging this workshop will be. If you feel l
 
 #### +++ Flying Spaghetti Monster level
 * Look at the **expected results gif** and create the same result with Framer + Sketch by yourself. (tips, make print screens of the HI site, only recreate everything in Sketch as a bonus)
+
 #### ++ Unicorn level
 * Use the [pre-made Sketch file]() and then create a show-menu-animation in Framer.
+
 #### + Cat level
 * Play around with the [pre-made Sketch file]() and the already created [Framer-project](). 
 
