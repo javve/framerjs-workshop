@@ -1,7 +1,8 @@
 CACHE MANIFEST
-# 1421423656.825819
+# 1421603182.496350
 CACHE:
 /_server/server.js
+../.DS_Store
 ../.temp.html
 ../app.coffee
 ../framer/.bowerrc
@@ -31,10 +32,10 @@ CACHE:
 ../framer/style.css
 ../framer/version
 ../images/framer-icon.png
+../imported/sketch-example/images/content-CCB50436-C3F8-4E6F-8C50-B9A094A749E4.png
 ../imported/sketch-example/images/header-C828FE50-DCDE-4062-8C02-AF4206396F53.png
 ../imported/sketch-example/images/headerActive-EB457F8B-BAE5-43AC-9823-262BC23BD76C.png
 ../imported/sketch-example/images/menu-1D31FDBA-0B7B-4D7F-8232-B822BF89B872.png
-../imported/sketch-example/images/Portrait__6-917F14CD-2CC6-44CF-A01A-D4F246646537.png
 ../imported/sketch-example/layers.json
 ../imported/sketch-example/layers.json.js
 ../index.html
