@@ -5,6 +5,11 @@ This workshop is intended for the Mobile Design module at Hyper Island.
 1. Download [Framer Studio Free Trial](http://framerjs.com/)
 2. Download [Sketch Free Trial](http://bohemiancoding.com/sketch/).
 
+
+### Expected result
+![Result](javve.github.com/framer-workshop/result.gif)
+
+
 ### Resources
 * http://framerjs.com/examples/
 * http://framer.link/
