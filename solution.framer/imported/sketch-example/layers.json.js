@@ -1,0 +1,127 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["sketch-example/layers.json.js"] = [
+  {
+    "maskFrame" : null,
+    "id" : "917F14CD-2CC6-44CF-A01A-D4F246646537",
+    "visible" : true,
+    "children" : [
+      {
+        "maskFrame" : null,
+        "id" : "EB457F8B-BAE5-43AC-9823-262BC23BD76C",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/headerActive-EB457F8B-BAE5-43AC-9823-262BC23BD76C.png",
+          "frame" : {
+            "y" : 0,
+            "x" : 0,
+            "width" : 750,
+            "height" : 119
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 0,
+          "x" : 0,
+          "width" : 750,
+          "height" : 119
+        },
+        "name" : "headerActive"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "C828FE50-DCDE-4062-8C02-AF4206396F53",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/header-C828FE50-DCDE-4062-8C02-AF4206396F53.png",
+          "frame" : {
+            "y" : 0,
+            "x" : 0,
+            "width" : 750,
+            "height" : 119
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 0,
+          "x" : 0,
+          "width" : 750,
+          "height" : 119
+        },
+        "name" : "header"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "1D31FDBA-0B7B-4D7F-8232-B822BF89B872",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/menu-1D31FDBA-0B7B-4D7F-8232-B822BF89B872.png",
+          "frame" : {
+            "y" : 107,
+            "x" : 0,
+            "width" : 750,
+            "height" : 1227
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 107,
+          "x" : 0,
+          "width" : 750,
+          "height" : 1227
+        },
+        "name" : "menu"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "CCB50436-C3F8-4E6F-8C50-B9A094A749E4",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/content-CCB50436-C3F8-4E6F-8C50-B9A094A749E4.png",
+          "frame" : {
+            "y" : 111,
+            "x" : 0,
+            "width" : 750,
+            "height" : 1220
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 111,
+          "x" : 0,
+          "width" : 750,
+          "height" : 1220
+        },
+        "name" : "content"
+      }
+    ],
+    "image" : {
+      "path" : "images\/Artboard_1-917F14CD-2CC6-44CF-A01A-D4F246646537.png",
+      "frame" : {
+        "y" : 0,
+        "x" : 0,
+        "width" : 750,
+        "height" : 1334
+      }
+    },
+    "imageType" : "png",
+    "layerFrame" : {
+      "y" : 0,
+      "x" : 0,
+      "width" : 750,
+      "height" : 1334
+    },
+    "name" : "Artboard_1"
+  }
+]
